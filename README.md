@@ -1,2 +1,2 @@
-# Data-Analysis---Hotel-Booking-
+# Exploratory Data Analysis on Hotel Booking Dataset
 Analyzing the data on Hotel Booking Dataset
